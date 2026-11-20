@@ -1,0 +1,17 @@
+{
+  "name": "참치랜드",
+  "short_name": "참치랜드",
+  "description": "얼음 바다의 작은 캠프에서 참치를 잡고 레이저로 썰어 팔아, 시장·왕국·나라를 거쳐 참치랜드로 키우는 아케이드 경영 게임",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a6aa0",
+  "theme_color": "#1a6aa0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
